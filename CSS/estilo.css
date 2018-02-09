@@ -1,0 +1,6 @@
+body { text-align: center; }
+
+a.exercise { border: 1px solid black; background: lightgrey; margin: 1em; padding: 0.5em; }
+a.exercise:hover { background: lightblue; border: 1px solid blue; }
+
+.completeDescrip { display: none; }
